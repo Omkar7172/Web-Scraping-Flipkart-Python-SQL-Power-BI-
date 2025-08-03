@@ -1,0 +1,1 @@
+Scraped mobile listings from Flipkart using Python, cleaned the data with Pandas, and stored records in MySQL. Connected MySQL to Power BI to build an interactive dashboard showing brand-wise price, ratings, and feature comparisons.
